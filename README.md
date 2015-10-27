@@ -1,5 +1,7 @@
 ## THE SMALL TOOLS **MANIFESTO** FOR BIOINFORMATICS
 
+[![Join the chat at https://gitter.im/kiwiroy/bioinformatics](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kiwiroy/bioinformatics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This **MANIFESTO** describes motives, rules and recommendations for designing
 software and pipelines for current day biological and biomedical research.
 
